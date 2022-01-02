@@ -1,0 +1,12 @@
+[programs.localnet]
+myepicsolanaproject = "Cpph6pLhunrNrZ7eYtJwDheW86YedVihr2RfqRoqiVcW"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "/Users/jazarine/.config/solana/id.json"
+
+[scripts]
+test = "node tests/myepicsolanaproject.js" 
